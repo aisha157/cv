@@ -1,0 +1,45 @@
+header
+{
+  margin: 0;
+background-color: #00897b;
+font-size: 21px;
+}
+
+h2{
+  text-align:center;
+  color: #80cbc4;
+}
+
+.intro{
+  text-align: center;
+  color: #004d40;
+}
+.about-me{
+  padding: 75px  0;
+  background-color: #1d3c41;
+  color: #fff;
+
+}
+.cols{
+ display: flex;
+  border: 3px solid yellow;
+padding: 10px 10px;
+}
+.col{
+flex:1;
+text-align: center;
+border: 3px solid aqua;
+}
+.education
+{
+  text-align: center;
+}
+.quali{
+    margin:0;
+  background-color: #80cbc4;
+
+}
+.skills{
+  background-color:  #1d3c41;
+  color: white;
+}
